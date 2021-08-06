@@ -39,7 +39,7 @@ main()
 			}
 			if(baskin<=0)
 			{
-				printf("\n\n왜그렇게 못하세요 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ");
+				printf("\n\n당신은 패배하였습니다!");
 				break;
 			}
 			baskin-=4-player;
